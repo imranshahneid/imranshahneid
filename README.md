@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and Movies (specially Shah Rukh Khan)
 - 🌱 I’m currently learning React JS, React Native
 - 💞️ I’m looking to collaborate on projects both web and mobile platforms.
-- 📫 How to reach me ... Just shoot me an email -> imran@konnectapps.io
+- 📫 How to reach me ... Just shoot me an email -> imran@moonward.com.au
 
 <!---
 imranshahneid/imranshahneid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
